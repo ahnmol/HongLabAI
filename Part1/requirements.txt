@@ -1,0 +1,8 @@
+numpy
+kagglehub
+ipympl
+ipywidgets
+pandas
+altair
+matplotlib
+sympy
