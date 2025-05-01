@@ -6,3 +6,5 @@ pandas
 altair
 matplotlib
 sympy
+seaborn
+scipy
