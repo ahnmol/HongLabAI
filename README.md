@@ -1,6 +1,6 @@
 # [홍랩 AI](https://www.honglab.ai/) 시리즈 안내
 
-저에 대해 궁금하신 분들은 [여기로](https://youtu.be/0zL3EVl37Cs)
+저에 대해 궁금하신 분들은 [소개 영상](https://youtu.be/0zL3EVl37Cs)이나 [링크드인](https://www.linkedin.com/in/jeong-mo-hong-63209ab4/)
 
 ### [파트1. 딥러닝 첫걸음 (무료)](https://www.honglab.ai/courses/aipt1) 
 
