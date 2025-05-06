@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+autograd_graph
+autograd_graph.pdf
+*.pth
