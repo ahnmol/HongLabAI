@@ -1,4 +1,4 @@
-# 홍랩 AI 시리즈 안내
+# [홍랩 AI](https://www.honglab.ai/) 시리즈 안내
 
 저에 대해 궁금하신 분들은 [여기로](https://youtu.be/0zL3EVl37Cs)
 
